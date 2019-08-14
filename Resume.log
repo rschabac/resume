@@ -1,0 +1,1079 @@
+This is LuaTeX, Version 1.07.0 (MiKTeX 2.9.6840 64-bit)  (format=lualatex 2019.1.30)  29 MAR 2019 00:15
+ restricted system commands enabled.
+**Resume.tex
+(./Resume.tex
+LaTeX2e <2018-04-01> patch level 5
+Lua module: luaotfload-main 2018/10/03 2.91001 OpenType layout system.
+Lua module: lualibs 2018-09-21 2.6 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2018-09-21 2.6 ConTeXt Lua libraries -- extended co
+llection.
+luaotfload | conf : Root cache directory is C:/Users/StevensUser/AppData/Local/M
+iKTeX/2.9/luatex-cache/generic/names.
+luaotfload | init : Loading fontloader “fontloader-2018-10-02.lua” from kpse
+-resolved path “C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/lua
+tex/luaotfload/fontloader-2018-10-02.lua”.
+Lua-only attribute luaotfload@state = 1
+Lua-only attribute luaotfload@noligature = 2
+Lua-only attribute luaotfload@syllabe = 3
+luaotfload | init : Context OpenType loader version “3.106”
+Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
+Inserting `luaotfload.define_font' at position 1 in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 4
+luaotfload | conf : Root cache directory is C:/Users/StevensUser/AppData/Local/M
+iKTeX/2.9/luatex-cache/generic/names.
+Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
+font'.
+Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
+_font'.
+Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
+t_unsafe'.
+Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
+'.
+Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
+.
+luaotfload | main : initialization completed in 0.618 seconds
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/article
+.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/size10.
+clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+luaotfload | db : Font names database loaded from C:/Users/StevensUser/AppData/L
+ocal/MiKTeX/2.9/luatex-cache/generic/names/luaotfload-names.luc)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/inputen
+c.sty"
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+)
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/frontend
+layer/tikz.sty"
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/basiclay
+er/pgf.sty"
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/utilitie
+s/pgfrcs.sty"
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/utilit
+ies/pgfutil-common.tex"
+\pgfutil@everybye=\toks16
+\pgfutil@tempdima=\dimen103
+\pgfutil@tempdimb=\dimen104
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/utilit
+ies/pgfutil-common-lists.tex"))
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/utilit
+ies/pgfutil-latex.def"
+\pgfutil@abb=\box26
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/ms/everyshi.
+sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/utilit
+ies/pgfrcs.code.tex"
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/basiclay
+er/pgfcore.sty"
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/gra
+phicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/key
+val.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/gra
+phics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/tri
+g.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics-cfg
+/graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: luatex.def on input line 99.
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics-def
+/luatex.def"
+File: luatex.def 2018/01/08 v1.0l Graphics/color driver for luatex
+))
+\Gin@req@height=\dimen105
+\Gin@req@width=\dimen106
+)
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/systemla
+yer/pgfsys.sty"
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/system
+layer/pgfsys.code.tex"
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/utilit
+ies/pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks18
+\pgfkeys@temptoks=\toks19
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/utilit
+ies/pgfkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks20
+))
+\pgf@x=\dimen107
+\pgf@y=\dimen108
+\pgf@xa=\dimen109
+\pgf@ya=\dimen110
+\pgf@xb=\dimen111
+\pgf@yb=\dimen112
+\pgf@xc=\dimen113
+\pgf@yc=\dimen114
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count88
+\c@pgf@countb=\count89
+\c@pgf@countc=\count90
+\c@pgf@countd=\count91
+\t@pgf@toka=\toks21
+\t@pgf@tokb=\toks22
+\t@pgf@tokc=\toks23
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/system
+layer/pgf.cfg"
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-luatex.def
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/system
+layer/pgfsys-luatex.def"
+File: pgfsys-luatex.def 2014/10/11  (rcs-revision 1.35)
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/system
+layer/pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/system
+layer/pgfsyssoftpath.code.tex"
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count92
+\pgfsyssoftpath@bigbuffer@items=\count93
+)
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/system
+layer/pgfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/xcolor/xcolo
+r.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics-cfg
+/color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: luatex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basicl
+ayer/pgfcore.code.tex"
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/p
+gfmath.code.tex"
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/p
+gfmathcalc.code.tex"
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/p
+gfmathutil.code.tex")
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/p
+gfmathparser.code.tex"
+\pgfmath@dimen=\dimen115
+\pgfmath@count=\count94
+\pgfmath@box=\box27
+\pgfmath@toks=\toks24
+\pgfmath@stack@operand=\toks25
+\pgfmath@stack@operation=\toks26
+)
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/p
+gfmathfunctions.code.tex"
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/p
+gfmathfunctions.basic.code.tex")
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/p
+gfmathfunctions.trigonometric.code.tex")
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/p
+gfmathfunctions.random.code.tex")
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/p
+gfmathfunctions.comparison.code.tex")
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/p
+gfmathfunctions.base.code.tex")
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/p
+gfmathfunctions.round.code.tex")
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/p
+gfmathfunctions.misc.code.tex")
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/p
+gfmathfunctions.integerarithmetics.code.tex")))
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/p
+gfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count95
+))
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basicl
+ayer/pgfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen116
+\pgf@picmaxx=\dimen117
+\pgf@picminy=\dimen118
+\pgf@picmaxy=\dimen119
+\pgf@pathminx=\dimen120
+\pgf@pathmaxx=\dimen121
+\pgf@pathminy=\dimen122
+\pgf@pathmaxy=\dimen123
+\pgf@xx=\dimen124
+\pgf@xy=\dimen125
+\pgf@yx=\dimen126
+\pgf@yy=\dimen127
+\pgf@zx=\dimen128
+\pgf@zy=\dimen129
+)
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basicl
+ayer/pgfcorepathconstruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen130
+\pgf@path@lasty=\dimen131
+)
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basicl
+ayer/pgfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen132
+\pgf@shorten@start@additional=\dimen133
+)
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basicl
+ayer/pgfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box28
+\pgf@hbox=\box29
+\pgf@layerbox@main=\box30
+\pgf@picture@serial@count=\count96
+)
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basicl
+ayer/pgfcoregraphicstate.code.tex"
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen134
+)
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basicl
+ayer/pgfcoretransformations.code.tex"
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen135
+\pgf@pt@y=\dimen136
+\pgf@pt@temp=\dimen137
+)
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basicl
+ayer/pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basicl
+ayer/pgfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basicl
+ayer/pgfcorepathprocessing.code.tex"
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basicl
+ayer/pgfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen138
+)
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basicl
+ayer/pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen139
+\pgf@sys@shading@range@num=\count97
+)
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basicl
+ayer/pgfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basicl
+ayer/pgfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box31
+))
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basicl
+ayer/pgfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basicl
+ayer/pgfcoretransparency.code.tex"
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basicl
+ayer/pgfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/module
+s/pgfmoduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box32
+)
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/module
+s/pgfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/compatib
+ility/pgfcomp-version-0-65.sty"
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen140
+\pgf@nodesepend=\dimen141
+)
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/compatib
+ility/pgfcomp-version-1-18.sty"
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+))
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/utilitie
+s/pgffor.sty"
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/utilitie
+s/pgfkeys.sty"
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/utilit
+ies/pgfkeys.code.tex"))
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/math/pgf
+math.sty"
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/p
+gfmath.code.tex"))
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/utilit
+ies/pgffor.code.tex"
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/p
+gfmath.code.tex")
+\pgffor@iter=\dimen142
+\pgffor@skip=\dimen143
+\pgffor@stack=\toks27
+\pgffor@toks=\toks28
+))
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/fronte
+ndlayer/tikz/tikz.code.tex"
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/librar
+ies/pgflibraryplothandlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count98
+\pgfplotmarksize=\dimen144
+)
+\tikz@lastx=\dimen145
+\tikz@lasty=\dimen146
+\tikz@lastxsaved=\dimen147
+\tikz@lastysaved=\dimen148
+\tikzleveldistance=\dimen149
+\tikzsiblingdistance=\dimen150
+\tikz@figbox=\box33
+\tikz@figbox@bg=\box34
+\tikz@tempbox=\box35
+\tikz@tempbox@bg=\box36
+\tikztreelevel=\count99
+\tikznumberofchildren=\count100
+\tikznumberofcurrentchild=\count101
+\tikz@fig@count=\count102
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/module
+s/pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count103
+\pgfmatrixcurrentcolumn=\count104
+\pgf@matrix@numberofcolumns=\count105
+)
+\tikz@expandcount=\count106
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/fronte
+ndlayer/tikz/libraries/tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/geometry/geo
+metry.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/i
+fpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/i
+fvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/ifxetex/if
+xetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count107
+\Gm@cntv=\count108
+\c@Gm@tempcnt=\count109
+\Gm@bindingoffset=\dimen151
+\Gm@wd@mp=\dimen152
+\Gm@odd@mp=\dimen153
+\Gm@even@mp=\dimen154
+\Gm@layoutwidth=\dimen155
+\Gm@layoutheight=\dimen156
+\Gm@layouthoffset=\dimen157
+\Gm@layoutvoffset=\dimen158
+\Gm@dimlist=\toks29
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/geometry/geo
+metry.cfg"))
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/setspace/set
+space.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/nopageno/nop
+ageno.sty"
+Package: nopageno 1989/01/01 no page numbers (DPC)
+)
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/enumitem/enu
+mitem.sty"
+Package: enumitem 2019/02/04 v3.8 Customized lists
+\labelindent=\skip43
+\enit@outerparindent=\dimen159
+\enit@toks=\toks30
+\enit@inbox=\box37
+\enit@count@id=\count110
+\enitdp@description=\count111
+)
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/fronte
+ndlayer/tikz/libraries/tikzlibraryshapes.code.tex"
+File: tikzlibraryshapes.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/fronte
+ndlayer/tikz/libraries/tikzlibraryshapes.geometric.code.tex"
+File: tikzlibraryshapes.geometric.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/librar
+ies/shapes/pgflibraryshapes.geometric.code.tex"
+File: pgflibraryshapes.geometric.code.tex 2008/06/26 v3.0.1a (rcs-revision 1.1)
+))
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/fronte
+ndlayer/tikz/libraries/tikzlibraryshapes.misc.code.tex"
+File: tikzlibraryshapes.misc.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/librar
+ies/shapes/pgflibraryshapes.misc.code.tex"
+File: pgflibraryshapes.misc.code.tex 2013/07/18 v3.0.1a (rcs-revision 1.5)
+))
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/fronte
+ndlayer/tikz/libraries/tikzlibraryshapes.symbols.code.tex"
+File: tikzlibraryshapes.symbols.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/librar
+ies/shapes/pgflibraryshapes.symbols.code.tex"
+File: pgflibraryshapes.symbols.code.tex 2013/09/11 v3.0.1a (rcs-revision 1.6)
+))
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/fronte
+ndlayer/tikz/libraries/tikzlibraryshapes.arrows.code.tex"
+File: tikzlibraryshapes.arrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/librar
+ies/shapes/pgflibraryshapes.arrows.code.tex"
+File: pgflibraryshapes.arrows.code.tex 2008/06/26 v3.0.1a (rcs-revision 1.1)
+))
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/fronte
+ndlayer/tikz/libraries/tikzlibraryshapes.callouts.code.tex"
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/librar
+ies/shapes/pgflibraryshapes.callouts.code.tex"))
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/fronte
+ndlayer/tikz/libraries/tikzlibraryshapes.multipart.code.tex"
+File: tikzlibraryshapes.multipart.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/librar
+ies/shapes/pgflibraryshapes.multipart.code.tex"
+File: pgflibraryshapes.multipart.code.tex 2010/01/07 v3.0.1a (rcs-revision 1.2)
+\pgfnodepartlowerbox=\box38
+\pgfnodeparttwobox=\box39
+\pgfnodepartthreebox=\box40
+\pgfnodepartfourbox=\box41
+\pgfnodeparttwentybox=\box42
+\pgfnodepartnineteenbox=\box43
+\pgfnodeparteighteenbox=\box44
+\pgfnodepartseventeenbox=\box45
+\pgfnodepartsixteenbox=\box46
+\pgfnodepartfifteenbox=\box47
+\pgfnodepartfourteenbox=\box48
+\pgfnodepartthirteenbox=\box49
+\pgfnodeparttwelvebox=\box50
+\pgfnodepartelevenbox=\box51
+\pgfnodeparttenbox=\box52
+\pgfnodepartninebox=\box53
+\pgfnodeparteightbox=\box54
+\pgfnodepartsevenbox=\box55
+\pgfnodepartsixbox=\box56
+\pgfnodepartfivebox=\box57
+)))
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/fronte
+ndlayer/tikz/libraries/tikzlibraryarrows.code.tex"
+File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/librar
+ies/pgflibraryarrows.code.tex"
+File: pgflibraryarrows.code.tex 2013/09/23 v3.0.1a (rcs-revision 1.16)
+\arrowsize=\dimen160
+))
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/fronte
+ndlayer/tikz/libraries/tikzlibraryshadows.code.tex"
+File: tikzlibraryshadows.code.tex 2008/01/13 v3.0.1a (rcs-revision 1.3)
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/fronte
+ndlayer/tikz/libraries/tikzlibraryfadings.code.tex"
+File: tikzlibraryfadings.code.tex 2009/11/15 v3.0.1a (rcs-revision 1.2)
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/librar
+ies/pgflibraryfadings.code.tex"
+File: pgflibraryfadings.code.tex 2008/02/07 v3.0.1a (rcs-revision 1.3)
+)))
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/fronte
+ndlayer/tikz/libraries/tikzlibrarydecorations.pathreplacing.code.tex"
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/fronte
+ndlayer/tikz/libraries/tikzlibrarydecorations.code.tex"
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/module
+s/pgfmoduledecorations.code.tex"
+\pgfdecoratedcompleteddistance=\dimen161
+\pgfdecoratedremainingdistance=\dimen162
+\pgfdecoratedinputsegmentcompleteddistance=\dimen163
+\pgfdecoratedinputsegmentremainingdistance=\dimen164
+\pgf@decorate@distancetomove=\dimen165
+\pgf@decorate@repeatstate=\count112
+\pgfdecorationsegmentamplitude=\dimen166
+\pgfdecorationsegmentlength=\dimen167
+)
+\tikz@lib@dec@box=\box58
+)
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/librar
+ies/decorations/pgflibrarydecorations.pathreplacing.code.tex"))
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/fronte
+ndlayer/tikz/libraries/tikzlibrarymatrix.code.tex"
+File: tikzlibrarymatrix.code.tex 2013/07/12 v3.0.1a (rcs-revision 1.4)
+)
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/fronte
+ndlayer/tikz/libraries/tikzlibrarypositioning.code.tex"
+File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
+)
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/fontspec/fon
+tspec.sty"
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/l3packages/x
+parse/xparse.sty"
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/l3kernel/exp
+l3.sty"
+Package: expl3 2019-01-28 L3 programming layer (loader) 
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/l3kernel/exp
+l3-code.tex"
+Package: expl3 2019-01-28 L3 programming layer (code)
+\ucharcat@table=\catcodetable5
+\c_max_int=\count113
+\l_tmpa_int=\count114
+\l_tmpb_int=\count115
+\g_tmpa_int=\count116
+\g_tmpb_int=\count117
+\g__kernel_prg_map_int=\count118
+\c_log_iow=\count119
+\l_iow_line_count_int=\count120
+\l__iow_line_target_int=\count121
+\l__iow_one_indent_int=\count122
+\l__iow_indent_int=\count123
+\c_zero_dim=\dimen168
+\c_max_dim=\dimen169
+\l_tmpa_dim=\dimen170
+\l_tmpb_dim=\dimen171
+\g_tmpa_dim=\dimen172
+\g_tmpb_dim=\dimen173
+\c_zero_skip=\skip44
+\c_max_skip=\skip45
+\l_tmpa_skip=\skip46
+\l_tmpb_skip=\skip47
+\g_tmpa_skip=\skip48
+\g_tmpb_skip=\skip49
+\c_zero_muskip=\muskip10
+\c_max_muskip=\muskip11
+\l_tmpa_muskip=\muskip12
+\l_tmpb_muskip=\muskip13
+\g_tmpa_muskip=\muskip14
+\g_tmpb_muskip=\muskip15
+\l_keys_choice_int=\count124
+\l__intarray_loop_int=\count125
+\c__intarray_sp_dim=\dimen174
+\g__intarray_font_int=\count126
+\c__fp_leading_shift_int=\count127
+\c__fp_middle_shift_int=\count128
+\c__fp_trailing_shift_int=\count129
+\c__fp_big_leading_shift_int=\count130
+\c__fp_big_middle_shift_int=\count131
+\c__fp_big_trailing_shift_int=\count132
+\c__fp_Bigg_leading_shift_int=\count133
+\c__fp_Bigg_middle_shift_int=\count134
+\c__fp_Bigg_trailing_shift_int=\count135
+\g__fp_array_int=\count136
+\l__fp_array_loop_int=\count137
+\l__sort_length_int=\count138
+\l__sort_min_int=\count139
+\l__sort_top_int=\count140
+\l__sort_max_int=\count141
+\l__sort_true_max_int=\count142
+\l__sort_block_int=\count143
+\l__sort_begin_int=\count144
+\l__sort_end_int=\count145
+\l__sort_A_int=\count146
+\l__sort_B_int=\count147
+\l__sort_C_int=\count148
+\l__tl_analysis_normal_int=\count149
+\l__tl_analysis_index_int=\count150
+\l__tl_analysis_nesting_int=\count151
+\l__tl_analysis_type_int=\count152
+\l__regex_internal_a_int=\count153
+\l__regex_internal_b_int=\count154
+\l__regex_internal_c_int=\count155
+\l__regex_balance_int=\count156
+\l__regex_group_level_int=\count157
+\l__regex_mode_int=\count158
+\c__regex_cs_in_class_mode_int=\count159
+\c__regex_cs_mode_int=\count160
+\l__regex_catcodes_int=\count161
+\l__regex_default_catcodes_int=\count162
+\c__regex_catcode_L_int=\count163
+\c__regex_catcode_O_int=\count164
+\c__regex_catcode_A_int=\count165
+\c__regex_all_catcodes_int=\count166
+\l__regex_show_lines_int=\count167
+\l__regex_min_state_int=\count168
+\l__regex_max_state_int=\count169
+\l__regex_left_state_int=\count170
+\l__regex_right_state_int=\count171
+\l__regex_capturing_group_int=\count172
+\l__regex_min_pos_int=\count173
+\l__regex_max_pos_int=\count174
+\l__regex_curr_pos_int=\count175
+\l__regex_start_pos_int=\count176
+\l__regex_success_pos_int=\count177
+\l__regex_curr_char_int=\count178
+\l__regex_curr_catcode_int=\count179
+\l__regex_last_char_int=\count180
+\l__regex_case_changed_char_int=\count181
+\l__regex_curr_state_int=\count182
+\l__regex_step_int=\count183
+\l__regex_min_active_int=\count184
+\l__regex_max_active_int=\count185
+\l__regex_replacement_csnames_int=\count186
+\l__regex_match_count_int=\count187
+\l__regex_min_submatch_int=\count188
+\l__regex_submatch_int=\count189
+\l__regex_zeroth_submatch_int=\count190
+\g__regex_trace_regex_int=\count191
+\c_empty_box=\box59
+\l_tmpa_box=\box60
+\l_tmpb_box=\box61
+\g_tmpa_box=\box62
+\g_tmpb_box=\box63
+\l__box_top_dim=\dimen175
+\l__box_bottom_dim=\dimen176
+\l__box_left_dim=\dimen177
+\l__box_right_dim=\dimen178
+\l__box_top_new_dim=\dimen179
+\l__box_bottom_new_dim=\dimen180
+\l__box_left_new_dim=\dimen181
+\l__box_right_new_dim=\dimen182
+\l__box_internal_box=\box64
+\l__coffin_internal_box=\box65
+\l__coffin_internal_dim=\dimen183
+\l__coffin_offset_x_dim=\dimen184
+\l__coffin_offset_y_dim=\dimen185
+\l__coffin_x_dim=\dimen186
+\l__coffin_y_dim=\dimen187
+\l__coffin_x_prime_dim=\dimen188
+\l__coffin_y_prime_dim=\dimen189
+\c_empty_coffin=\box66
+\l__coffin_aligned_coffin=\box67
+\l__coffin_aligned_internal_coffin=\box68
+\l_tmpa_coffin=\box69
+\l_tmpb_coffin=\box70
+\g_tmpa_coffin=\box71
+\g_tmpb_coffin=\box72
+\c__coffin_empty_coffin=\box73
+\l__coffin_display_coffin=\box74
+\l__coffin_display_coord_coffin=\box75
+\l__coffin_display_pole_coffin=\box76
+\l__coffin_display_offset_dim=\dimen190
+\l__coffin_display_x_dim=\dimen191
+\l__coffin_display_y_dim=\dimen192
+\g__file_internal_ior=\read2
+\l__coffin_bounding_shift_dim=\dimen193
+\l__coffin_left_corner_dim=\dimen194
+\l__coffin_right_corner_dim=\dimen195
+\l__coffin_bottom_corner_dim=\dimen196
+\l__coffin_top_corner_dim=\dimen197
+\l__coffin_scaled_total_height_dim=\dimen198
+\l__coffin_scaled_width_dim=\dimen199
+\l__seq_internal_a_int=\count192
+\l__seq_internal_b_int=\count193
+)
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/l3kernel/l3p
+dfmode.def"
+File: l3pdfmode.def 2019-01-28 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count194
+))
+Package: xparse 2018-10-17 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count195
+\g__xparse_grabber_int=\count196
+\l__xparse_m_args_int=\count197
+\l__xparse_mandatory_args_int=\count198
+\l__xparse_v_nesting_int=\count199
+)
+Package: fontspec 2018/07/30 vv2.6h Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2018/07/30 v2.6h Font selection for XeLaTeX and LuaLaTeX
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/fontspec/fon
+tspec-luatex.sty"
+Package: fontspec-luatex 2018/07/30 vv2.6h Font selection for XeLaTeX and LuaLaT
+eX
+\l__fontspec_script_int=\count266
+\l__fontspec_language_int=\count267
+\l__fontspec_strnum_int=\count268
+\l__fontspec_tmp_int=\count269
+\l__fontspec_em_int=\count270
+\l__fontspec_emdef_int=\count271
+\l__fontspec_strong_int=\count272
+\l__fontspec_strongdef_int=\count273
+\l__fontspec_tmpa_dim=\dimen256
+\l__fontspec_tmpb_dim=\dimen257
+\l__fontspec_tmpc_dim=\dimen258
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/fontenc
+.sty"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/tuenc.d
+ef"
+File: tuenc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
+))
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/fontspec/fon
+tspec.cfg")
+LaTeX Info: Redefining \itshape on input line 3644.
+LaTeX Info: Redefining \slshape on input line 3649.
+LaTeX Info: Redefining \scshape on input line 3654.
+LaTeX Info: Redefining \upshape on input line 3659.
+LaTeX Info: Redefining \em on input line 3689.
+LaTeX Info: Redefining \emph on input line 3714.
+LaTeX Info: Redefining \- on input line 3768.
+))
+luaotfload | cache : Lookup cache loaded from C:/Users/StevensUser/AppData/Local
+/MiKTeX/2.9/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
+
+Package fontspec Info: Arial scale = 0.8311558380414313.
+
+
+
+Package fontspec Warning: Input mapping not (yet?) supported in LuaTeX.
+(fontspec)                 Use "Ligatures=TeX" instead of "Mapping=tex-text".
+
+
+Package fontspec Info: Arial scale = 0.8311558380414313.
+
+
+Package fontspec Info: Arial scale = 0.8311558380414313.
+
+
+Package fontspec Info: Arial/B scale = 0.8311558380414313.
+
+
+Package fontspec Info: Arial/B scale = 0.8311558380414313.
+
+
+Package fontspec Info: Arial/I scale = 0.8311558380414313.
+
+
+Package fontspec Info: Arial/I scale = 0.8311558380414313.
+
+
+Package fontspec Info: Arial/BI scale = 0.8311558380414313.
+
+
+Package fontspec Info: Arial/BI scale = 0.8311558380414313.
+
+
+Package fontspec Info: Font family 'Arial(0)' created for font 'Arial' with
+(fontspec)             options
+(fontspec)             [Mapping=tex-text,Scale=MatchLowercase,Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[0.8311558380414313]"Arial:mode=node;script=latn;lan
+guage=DFLT;+tlig;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[0.8311558380414313]"Arial:mode=node;script=latn;lan
+guage=DFLT;+tlig;+smcp;"
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->s*[0.8311558380414313]"Arial/B:mode=node;script=latn;l
+anguage=DFLT;+tlig;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.:
+(fontspec)             <->s*[0.8311558380414313]"Arial/B:mode=node;script=latn;l
+anguage=DFLT;+tlig;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[0.8311558380414313]"Arial/I:mode=node;script=latn;l
+anguage=DFLT;+tlig;"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.:
+(fontspec)             <->s*[0.8311558380414313]"Arial/I:mode=node;script=latn;l
+anguage=DFLT;+tlig;+smcp;"
+(fontspec)             - 'bold italic' (bx/it) with NFSS spec.:
+(fontspec)             <->s*[0.8311558380414313]"Arial/BI:mode=node;script=latn;
+language=DFLT;+tlig;"
+(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+(fontspec)             <->s*[0.8311558380414313]"Arial/BI:mode=node;script=latn;
+language=DFLT;+tlig;+smcp;"
+
+LaTeX Info: Redefining \rmfamily on input line 15.
+LaTeX Font Info:    Font shape `TU/Arial(0)/m/n' will be
+(Font)              scaled to size 8.31161pt on input line 15.
+(./Resume.aux)
+\openout1 = Resume.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+ ABD: EveryShipout initializing macros
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/context/base/supp-
+pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count274
+\scratchdimen=\dimen259
+\scratchbox=\box77
+\nofMPsegments=\count275
+\nofMParguments=\count276
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count277
+\MPscratchDim=\dimen260
+\MPnumerator=\count278
+\makeMPintoPDFobject=\count279
+\everyMPtoPDFconversion=\toks32
+)
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/eps
+topdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/i
+nfwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/grf
+ext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/k
+vdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/l
+txcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/kvo
+ptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/k
+vsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/e
+texcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/i
+fluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX detected.
+))))
+("C:/Users/StevensUser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/p
+dftexcmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO)
+
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks33
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 43
+8.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG
+,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: luatex
+*geometry* verbose mode - [ preamble ] result:
+* driver: luatex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(36.135pt, 542.02501pt, 36.135pt)
+* v-part:(T,H,B)=(36.135pt, 722.7pt, 36.135pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=542.02501pt
+* \textheight=722.7pt
+* \oddsidemargin=-36.135pt
+* \evensidemargin=-36.135pt
+* \topmargin=-73.135pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 23.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 23.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 23.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 23.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 23.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 23.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 23.
+LaTeX Font Info:    Redeclaring math accent \check on input line 23.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 23.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 23.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 23.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 23.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 23.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 23.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 23.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 23.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 23.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 23.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 23.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 23.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 23.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 23.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 23.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 23.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 23.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 23.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/Arial(0)/m/n on input line 23.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 23.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/Arial(0)/m/n on input line 23.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/Arial(0)/m/n --> TU/Arial(0)/m/n on input line 23.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/Arial(0)/m/it on input line 23.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/Arial(0)/bx/n on input line 23.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 23.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 23.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/Arial(0)/m/n --> TU/Arial(0)/bx/n on input line 23.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/Arial(0)/bx/it on input line 23.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 23.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 23.
+LaTeX Font Info:    Font shape `TU/Arial(0)/m/n' will be
+(Font)              scaled to size 20.67929pt on input line 26.
+LaTeX Font Info:    Font shape `TU/Arial(0)/m/n' will be
+(Font)              scaled to size 11.96872pt on input line 27.
+LaTeX Font Info:    Font shape `TU/Arial(0)/m/n' will be
+(Font)              scaled to size 17.23828pt on input line 33.
+LaTeX Font Info:    Font shape `TU/Arial(0)/bx/n' will be
+(Font)              scaled to size 11.96872pt on input line 58.
+LaTeX Font Info:    Font shape `TU/Arial(0)/m/it' will be
+(Font)              scaled to size 11.96872pt on input line 74.
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--111
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--127
+
+ []
+
+[1
+
+{C:/Users/StevensUser/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(./Resume.aux))
+
+Here is how much of LuaTeX's memory you used:
+ 26496 strings out of 494407
+ 100000,794899 words of node,token memory allocated
+ 822 words of node memory still in use:
+   11 hlist, 1 vlist, 9 rule, 2 glue, 3 kern, 1 glyph, 45 attribute, 49 glue_spe
+c, 45 attribute_list, 1 write, 16 pdf_literal, 16 pdf_colorstack nodes
+   avail lists: 1:1,2:237,3:96,4:28,5:36,6:25,7:2164,8:6,9:81,10:6,11:171
+ 29871 multiletter control sequences out of 65536+200000
+ 37 fonts using 12556279 bytes
+ 55i,5n,117p,421b,446s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/WINDOWS/Fonts/ariali.ttf><C:/WINDOWS/Fonts/arialbd.ttf><C:/WINDOWS/Fonts/ari
+al.ttf>
+Output written on Resume.pdf (1 page, 84895 bytes).
+
+PDF statistics: 54 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 131072)
+ 176 words of extra memory for PDF output out of 10000 (max. 100000000)
+
