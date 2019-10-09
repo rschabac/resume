@@ -1,4 +1,4 @@
-# resume
+# Resume
 Please ignore this repo of me updating my resume over time
 
 
