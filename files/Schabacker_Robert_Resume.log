@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6840 64-bit) (preloaded format=xelatex 2019.9.12)  8 OCT 2019 20:27
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6840 64-bit) (preloaded format=xelatex 2019.9.12)  27 JUL 2020 17:25
 entering extended mode
 **./Schabacker_Robert_Resume.tex
 (Schabacker_Robert_Resume.tex
@@ -437,6 +437,12 @@ Package: enumitem 2019/02/04 v3.8 Customized lists
 \enit@inbox=\box37
 \enit@count@id=\count111
 \enitdp@description=\count112
+)
+("C:\Users\StevensUser\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyphenat\hyp
+henat.sty"
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language76
+LaTeX Info: Redefining \_ on input line 43.
 )
 ("C:\Users\StevensUser\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\fronte
 ndlayer\tikz\libraries\tikzlibraryshapes.code.tex"
@@ -940,12 +946,18 @@ LaTeX Font Info:    Font shape `TU/Arial(0)/m/n' will be
 (Font)              scaled to size 11.96872pt on input line 29.
 LaTeX Font Info:    Font shape `TU/Arial(0)/m/n' will be
 (Font)              scaled to size 17.23828pt on input line 36.
-LaTeX Font Info:    Font shape `TU/Arial(0)/bx/n' will be
-(Font)              scaled to size 11.96872pt on input line 61.
-LaTeX Font Info:    Font shape `TU/Arial(0)/m/it' will be
-(Font)              scaled to size 11.96872pt on input line 77.
 
-Overfull \hbox (0.1308pt too wide) in paragraph at lines 82--83
+Overfull \hbox (0.61385pt too wide) in paragraph at lines 41--48
+\TU/Arial(0)/m/n/14.4 Programming, Programming Languages, Concurrent Programmin
+g, Computer Vision, Natural Language
+ []
+
+LaTeX Font Info:    Font shape `TU/Arial(0)/bx/n' will be
+(Font)              scaled to size 11.96872pt on input line 58.
+LaTeX Font Info:    Font shape `TU/Arial(0)/m/it' will be
+(Font)              scaled to size 11.96872pt on input line 75.
+
+Overfull \hbox (0.1308pt too wide) in paragraph at lines 89--90
 []\TU/Arial(0)/m/n/14.4 Developed application to notify customers of their sche
 duled appointments, allowing them to []
  []
@@ -954,10 +966,10 @@ duled appointments, allowing them to []
 
 ] (Schabacker_Robert_Resume.aux) ) 
 Here is how much of TeX's memory you used:
- 25520 strings out of 427792
- 568234 string characters out of 3146621
- 655787 words of memory out of 3000000
- 29241 multiletter control sequences out of 15000+200000
+ 25553 strings out of 427792
+ 568655 string characters out of 3146621
+ 657530 words of memory out of 3000000
+ 29271 multiletter control sequences out of 15000+200000
  532450 words of font info for 38 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  55i,5n,117p,453b,446s stack positions out of 5000i,500n,10000p,200000b,50000s
