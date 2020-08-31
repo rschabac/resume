@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6840 64-bit) (preloaded format=xelatex 2019.9.12)  27 AUG 2020 13:22
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6840 64-bit) (preloaded format=xelatex 2019.9.12)  31 AUG 2020 16:23
 entering extended mode
 **./Schabacker_Robert_Resume.tex
 (Schabacker_Robert_Resume.tex
@@ -957,13 +957,13 @@ LaTeX Font Info:    Font shape `TU/Arial(0)/bx/n' will be
 LaTeX Font Info:    Font shape `TU/Arial(0)/m/it' will be
 (Font)              scaled to size 11.96872pt on input line 72.
 
-Overfull \hbox (0.1308pt too wide) in paragraph at lines 109--110
+Overfull \hbox (0.1308pt too wide) in paragraph at lines 100--101
 []\TU/Arial(0)/m/n/14.4 Developed application to notify customers of their sche
 duled appointments, allowing them to []
  []
 
 
-Overfull \hbox (7.00076pt too wide) in paragraph at lines 128--129
+Overfull \hbox (7.00076pt too wide) in paragraph at lines 119--120
 []\TU/Arial(0)/m/n/14.4 Implemented a parser, typechecker, frontend, and optimi
 zing backend for an imperative programming
  []
@@ -974,7 +974,7 @@ zing backend for an imperative programming
 Here is how much of TeX's memory you used:
  25553 strings out of 427792
  568655 string characters out of 3146621
- 658530 words of memory out of 3000000
+ 657530 words of memory out of 3000000
  29271 multiletter control sequences out of 15000+200000
  532450 words of font info for 38 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
