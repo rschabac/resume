@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6840 64-bit) (preloaded format=xelatex 2019.9.12)  31 AUG 2020 16:23
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6840 64-bit) (preloaded format=xelatex 2019.9.12)  9 SEP 2020 21:05
 entering extended mode
 **./Schabacker_Robert_Resume.tex
 (Schabacker_Robert_Resume.tex
@@ -946,24 +946,29 @@ LaTeX Font Info:    Font shape `TU/Arial(0)/m/n' will be
 (Font)              scaled to size 11.96872pt on input line 29.
 LaTeX Font Info:    Font shape `TU/Arial(0)/m/n' will be
 (Font)              scaled to size 17.23828pt on input line 35.
+LaTeX Font Info:    Font shape `TU/Arial(0)/bx/n' will be
+(Font)              scaled to size 11.96872pt on input line 56.
 
-Overfull \hbox (0.61385pt too wide) in paragraph at lines 40--47
-\TU/Arial(0)/m/n/14.4 Programming, Programming Languages, Concurrent Programmin
-g, Computer Vision, Natural Language
+Underfull \hbox (badness 10000) in paragraph at lines 55--58
+
  []
 
-LaTeX Font Info:    Font shape `TU/Arial(0)/bx/n' will be
-(Font)              scaled to size 11.96872pt on input line 57.
+LaTeX Font Info:    Font shape `TU/Arial(0)/m/n' will be
+(Font)              scaled to size 5.81813pt on input line 59.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 59.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 59.
 LaTeX Font Info:    Font shape `TU/Arial(0)/m/it' will be
-(Font)              scaled to size 11.96872pt on input line 72.
+(Font)              scaled to size 11.96872pt on input line 74.
 
-Overfull \hbox (0.1308pt too wide) in paragraph at lines 100--101
+Overfull \hbox (0.1308pt too wide) in paragraph at lines 103--104
 []\TU/Arial(0)/m/n/14.4 Developed application to notify customers of their sche
 duled appointments, allowing them to []
  []
 
 
-Overfull \hbox (7.00076pt too wide) in paragraph at lines 119--120
+Overfull \hbox (7.00076pt too wide) in paragraph at lines 122--123
 []\TU/Arial(0)/m/n/14.4 Implemented a parser, typechecker, frontend, and optimi
 zing backend for an imperative programming
  []
@@ -972,12 +977,12 @@ zing backend for an imperative programming
 
 ] (Schabacker_Robert_Resume.aux) ) 
 Here is how much of TeX's memory you used:
- 25553 strings out of 427792
- 568655 string characters out of 3146621
+ 25562 strings out of 427792
+ 568816 string characters out of 3146621
  657530 words of memory out of 3000000
- 29271 multiletter control sequences out of 15000+200000
- 532450 words of font info for 38 fonts, out of 3000000 for 9000
+ 29277 multiletter control sequences out of 15000+200000
+ 533371 words of font info for 42 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
- 55i,5n,117p,453b,446s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,6n,117p,453b,446s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on Schabacker_Robert_Resume.pdf (1 page).
