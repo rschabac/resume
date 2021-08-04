@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6840 64-bit) (preloaded format=xelatex 2019.9.12)  14 OCT 2020 02:12
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6840 64-bit) (preloaded format=xelatex 2019.9.12)  4 AUG 2021 21:08
 entering extended mode
 **./Schabacker_Robert_Resume.tex
 (Schabacker_Robert_Resume.tex
@@ -834,20 +834,20 @@ LaTeX Font Info:    Font shape `TU/Arial(0)/m/n' will be
  (Schabacker_Robert_Resume.aux)
 \openout1 = `Schabacker_Robert_Resume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
 
 ABD: EveryShipout initializing macros
 *geometry* detected driver: pdftex
@@ -889,99 +889,97 @@ Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 25.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 25.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 25.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 25.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 25.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 25.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 25.
-LaTeX Font Info:    Redeclaring math accent \check on input line 25.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 25.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 25.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 25.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 25.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 26.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 26.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 26.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 26.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 26.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 26.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 26.
+LaTeX Font Info:    Redeclaring math accent \check on input line 26.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 26.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 26.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 26.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 26.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 26.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 26.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 26.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 26.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 26.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 26.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 26.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 26.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 26.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 26.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 26.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 26.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 26.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 25.
+(Font)              `operators' in the math version `normal' on input line 26.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/Arial(0)/m/n on input line 25.
+(Font)                  OT1/cmr/m/n --> TU/Arial(0)/m/n on input line 26.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 25.
+(Font)              `operators' in the math version `bold' on input line 26.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/Arial(0)/m/n on input line 25.
+(Font)                  OT1/cmr/bx/n --> TU/Arial(0)/m/n on input line 26.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/Arial(0)/m/n --> TU/Arial(0)/m/n on input line 25.
+(Font)                  TU/Arial(0)/m/n --> TU/Arial(0)/m/n on input line 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/Arial(0)/m/it on input line 25.
+(Font)                  OT1/cmr/m/it --> TU/Arial(0)/m/it on input line 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/Arial(0)/bx/n on input line 25.
+(Font)                  OT1/cmr/bx/n --> TU/Arial(0)/bx/n on input line 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 25.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 25.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 26.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/Arial(0)/m/n --> TU/Arial(0)/bx/n on input line 25.
+(Font)                  TU/Arial(0)/m/n --> TU/Arial(0)/bx/n on input line 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/Arial(0)/bx/it on input line 25.
+(Font)                  OT1/cmr/bx/it --> TU/Arial(0)/bx/it on input line 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 25.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 25.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 26.
 LaTeX Font Info:    Font shape `TU/Arial(0)/m/n' will be
-(Font)              scaled to size 20.67929pt on input line 28.
+(Font)              scaled to size 17.23828pt on input line 29.
 LaTeX Font Info:    Font shape `TU/Arial(0)/m/n' will be
-(Font)              scaled to size 11.96872pt on input line 29.
-LaTeX Font Info:    Font shape `TU/Arial(0)/m/n' will be
-(Font)              scaled to size 17.23828pt on input line 35.
+(Font)              scaled to size 11.96872pt on input line 31.
 LaTeX Font Info:    Font shape `TU/Arial(0)/bx/n' will be
-(Font)              scaled to size 11.96872pt on input line 56.
+(Font)              scaled to size 11.96872pt on input line 62.
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--58
+Underfull \hbox (badness 10000) in paragraph at lines 61--64
 
  []
 
 LaTeX Font Info:    Font shape `TU/Arial(0)/m/n' will be
-(Font)              scaled to size 5.81813pt on input line 59.
+(Font)              scaled to size 5.81813pt on input line 65.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 59.
+(Font)              <14.4> on input line 65.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 59.
+(Font)              <7> on input line 65.
 LaTeX Font Info:    Font shape `TU/Arial(0)/m/it' will be
-(Font)              scaled to size 11.96872pt on input line 74.
+(Font)              scaled to size 11.96872pt on input line 82.
 
-Overfull \hbox (0.1308pt too wide) in paragraph at lines 103--104
+Overfull \hbox (10.7332pt too wide) in paragraph at lines 88--90
+[]\TU/Arial(0)/m/n/14.4 Refactored an HTTP utility library used in 6 Java proje
+cts to provide a common interface for developers
+ []
+
+
+Overfull \hbox (0.1308pt too wide) in paragraph at lines 130--131
 []\TU/Arial(0)/m/n/14.4 Developed application to notify customers of their sche
 duled appointments, allowing them to []
- []
-
-
-Overfull \hbox (7.00076pt too wide) in paragraph at lines 122--123
-[]\TU/Arial(0)/m/n/14.4 Implemented a parser, typechecker, frontend, and optimi
-zing backend for an imperative programming
  []
 
 [1
 
 ] (Schabacker_Robert_Resume.aux) ) 
 Here is how much of TeX's memory you used:
- 25562 strings out of 427792
- 568816 string characters out of 3146621
- 657529 words of memory out of 3000000
+ 25561 strings out of 427792
+ 568763 string characters out of 3146621
+ 659530 words of memory out of 3000000
  29277 multiletter control sequences out of 15000+200000
- 533371 words of font info for 42 fonts, out of 3000000 for 9000
+ 533363 words of font info for 41 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  55i,6n,117p,453b,446s stack positions out of 5000i,500n,10000p,200000b,50000s
 

@@ -13,9 +13,10 @@
 \usepackage{fontspec}
 \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
 \setmainfont{Arial}
-\renewcommand{\baselinestretch}{0.8}%can change this to change spacing between lines 
+\renewcommand{\baselinestretch}{0.73}%can change this to change spacing between lines 
 %\setlength{\parskip}{0cm minus1mm}
-\newcommand \spacingBetweenHeadings {0.5em}
+\newcommand \spacingBetweenHeadings {0.3em}
+\newcommand \spacingAfterHeadings {0.5em}
 
 \title{Resume}
 \author{Robert Schabacker}
@@ -25,10 +26,11 @@
 \begin{document}
 
 \begin{center}
-{\Huge Robert Schabacker\par}
+{\huge Robert Schabacker\par}
+\vspace{0.3em}
 {\Large rschabac@stevens.edu  |  (973) 796 6965  |  Hoboken, NJ  |  github.com/rschabac\par}
 \end{center}
-\vspace{-0.7em}
+\vspace{-1.3em}
 \vspace{\spacingBetweenHeadings}
 
 \noindent
@@ -36,13 +38,17 @@
 \vspace{0.1em}
 \hrule
 \Large
-\vspace{1em}
+\vspace{\spacingAfterHeadings}
 \noindent
-Stevens Institute of Technology, Hoboken NJ
+Stevens Institute of Technology, Hoboken NJ\\
+M.S., Computer Science, GPA 4.0
 \hfill
 Expected Graduation May 2022\\
-%GPA: 3.983 \hspace{0.7cm} Dean's List\\
-Bachelor of Science, Computer Science, minor in Mathematics, GPA 3.98
+B.S., Computer Science, minor in Mathematics, GPA 3.99
+\hfill
+Expected Graduation May 2022
+
+
 
 \vspace{\spacingBetweenHeadings}
 
@@ -51,14 +57,15 @@ Bachelor of Science, Computer Science, minor in Mathematics, GPA 3.98
 \vspace{0.1em}
 \hrule
 \Large
-\vspace{1em}
+\vspace{\spacingAfterHeadings}
 \noindent
-\textbf{Software:} Comfortable in JavaScript, OCaml, Python, Bash, Swift, Firebase Platform\\
+\textbf{Software:} Proficient in Python, Java, Rust, C, JavaScript, Bash\\
 \textbf{Coursework includes:}\\
 \vskip -0.3 cm
 \begin{tabular}{ l l l }
-Compiler Design \& Implementation & Systems Programming & Programming Languages\\ 
-Concurrent Programming            & Database Systems	& Computer Vision\\
+%other options: 392, 496, 631, 576 (once started)
+Compiler Design \& Implementation & Operating Systems   & Concurrent Programming\\ 
+Formal Verification of Software   & Database Systems	& Computer Vision\\
 \end{tabular}
 
 \vspace{\spacingBetweenHeadings}
@@ -68,7 +75,26 @@ Concurrent Programming            & Database Systems	& Computer Vision\\
 \vspace{0.1em}
 \hrule
 \Large
-\vspace{1em}
+\vspace{\spacingAfterHeadings}
+
+\noindent
+\textbf{Verisk Analytics, Jersey City NJ (Remote)}\\
+\textit{Software Engineering Intern}
+\hfill
+June 2021 - August 2021\\
+\vspace{-1em}
+\begin{itemize}
+%vcs-http-util refactor
+\item Refactored an HTTP utility library used in 6 Java projects to provide a common interface for developers across 3 teams
+%locator xml (client library for accessing an external API)
+\item Built a Java client to integrate with an external API, converting requests and responses to/from XML
+%nmvtis historical update
+\item Developed, tested, and deployed a solution to a production issue involving incorrect data in over 4 million customer records
+
+
+
+\end{itemize}
+
 \noindent
 \textbf{Prudential Financial, Newark NJ (Remote)}\\
 \textit{Software Engineering Intern}
@@ -81,11 +107,12 @@ June 2020 - August 2020\\
 \item Used Node.js and Docker to deploy the web app through an AWS pipeline
 \end{itemize}
 
+%TODO 516 TA
 \noindent
 \textbf{Stevens Institute of Technology, Hoboken NJ / Remote}\\
 \textit{Course Assistant}
 \hfill
-January 2020 - December 2020\\
+January 2020 - May 2021\\
 \vspace{-1em}
 \begin{itemize}
 \item Courses: Discrete Structures, Automata and Computation
@@ -112,7 +139,11 @@ March 2018 - June 2020\\
 \vspace{0.1em}
 \hrule
 \Large
-\vspace{1em}
+\vspace{\spacingAfterHeadings}
+
+
+\iffalse %516 Project
+
 \noindent
 Compiler for Small Imperative Language
 \hfill
@@ -122,6 +153,21 @@ Spring 2020\\
 \item Implemented a parser, typechecker, frontend, and optimizing backend for an imperative programming language as part of a class on compiler design
 \item Compiler written in OCaml using LLVM as a middle-end and x86 as the target architecture
 \end{itemize}
+
+\fi
+
+\noindent
+Proof-of-Concept Programming Language
+\hfill
+Spring - Summer 2021\\
+\vspace{-1em}
+\begin{itemize}
+\item Implemented a parser, typechecker, and compiler frontend for a C-like programming language, with generic data structures and functions implemented in a novel way
+\item Compiler written in Rust, using the LLVM infrastructure for optimization
+\end{itemize}
+
+%Could add 562 EMF query processor and 492 file system project
+
 
 \noindent
 Altice University Hackathon (Third Place)
