@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6840 64-bit) (preloaded format=xelatex 2019.9.12)  6 AUG 2021 18:12
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6840 64-bit) (preloaded format=xelatex 2019.9.12)  9 SEP 2021 03:58
 entering extended mode
 **./Schabacker_Robert_Resume.tex
 (Schabacker_Robert_Resume.tex
@@ -945,28 +945,23 @@ LaTeX Font Info:    Font shape `TU/Arial(0)/m/n' will be
 LaTeX Font Info:    Font shape `TU/Arial(0)/m/n' will be
 (Font)              scaled to size 11.96872pt on input line 31.
 LaTeX Font Info:    Font shape `TU/Arial(0)/bx/n' will be
-(Font)              scaled to size 11.96872pt on input line 62.
+(Font)              scaled to size 11.96872pt on input line 43.
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--64
-
+Overfull \hbox (16.16478pt too wide) in paragraph at lines 61--68
+\TU/Arial(0)/bx/n/14.4 Coursework Includes: \TU/Arial(0)/m/n/14.4 Compiler Desi
+gn & Implementation, Operating Systems, Concurrent Programming,
  []
 
-LaTeX Font Info:    Font shape `TU/Arial(0)/m/n' will be
-(Font)              scaled to size 5.81813pt on input line 65.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 65.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 65.
 LaTeX Font Info:    Font shape `TU/Arial(0)/m/it' will be
-(Font)              scaled to size 11.96872pt on input line 82.
+(Font)              scaled to size 11.96872pt on input line 84.
 
-Overfull \hbox (10.7332pt too wide) in paragraph at lines 88--90
+Overfull \hbox (10.7332pt too wide) in paragraph at lines 90--92
 []\TU/Arial(0)/m/n/14.4 Refactored an HTTP utility library used in 6 Java proje
 cts to provide a common interface for developers
  []
 
 
-Overfull \hbox (0.1308pt too wide) in paragraph at lines 130--131
+Overfull \hbox (0.1308pt too wide) in paragraph at lines 135--136
 []\TU/Arial(0)/m/n/14.4 Developed application to notify customers of their sche
 duled appointments, allowing them to []
  []
@@ -975,12 +970,12 @@ duled appointments, allowing them to []
 
 ] (Schabacker_Robert_Resume.aux) ) 
 Here is how much of TeX's memory you used:
- 25561 strings out of 427792
- 568763 string characters out of 3146621
- 659530 words of memory out of 3000000
- 29277 multiletter control sequences out of 15000+200000
- 533363 words of font info for 41 fonts, out of 3000000 for 9000
+ 25552 strings out of 427792
+ 568602 string characters out of 3146621
+ 658529 words of memory out of 3000000
+ 29271 multiletter control sequences out of 15000+200000
+ 532442 words of font info for 37 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
- 55i,6n,117p,453b,446s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,5n,117p,453b,446s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on Schabacker_Robert_Resume.pdf (1 page).

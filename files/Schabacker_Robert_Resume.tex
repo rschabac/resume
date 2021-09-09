@@ -13,7 +13,7 @@
 \usepackage{fontspec}
 \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
 \setmainfont{Arial}
-\renewcommand{\baselinestretch}{0.73}%can change this to change spacing between lines 
+\renewcommand{\baselinestretch}{0.75}%can change this to change spacing between lines 
 %\setlength{\parskip}{0cm minus1mm}
 \newcommand \spacingBetweenHeadings {0.3em}
 \newcommand \spacingAfterHeadings {0.5em}
@@ -40,7 +40,7 @@
 \Large
 \vspace{\spacingAfterHeadings}
 \noindent
-Stevens Institute of Technology, Hoboken NJ\\
+\textbf{Stevens Institute of Technology}, Hoboken NJ\\
 M.S., Computer Science, GPA 4.0
 \hfill
 Expected Graduation May 2022\\
@@ -59,26 +59,28 @@ Expected Graduation May 2022
 \Large
 \vspace{\spacingAfterHeadings}
 \noindent
-\textbf{Software:} Proficient in Python, Java, Rust, C, JavaScript, Bash\\
-\textbf{Coursework includes:}\\
-\vskip -0.3 cm
-\begin{tabular}{ l l l }
+\textbf{Software:} Proficient in Python, Java, Rust, C/C++, JavaScript, Bash\\
+\textbf{Coursework Includes:} Compiler Design \& Implementation, Operating Systems, Concurrent Programming, Database Systems, Formal Verification of Software, Computer Vision %more classes here
 %other options: 392, 496, 631, 576 (once started)
-Compiler Design \& Implementation & Operating Systems   & Concurrent Programming\\ 
-Formal Verification of Software   & Database Systems	& Computer Vision\\
-\end{tabular}
+%\textbf{Coursework includes:}\\
+%\vskip -0.3 cm
+%\begin{tabular}{ l l l }
+
+%Compiler Design \& Implementation & Operating Systems   & Concurrent Programming\\ 
+%Formal Verification of Software   & Database Systems	& Computer Vision\\
+%\end{tabular}
 
 \vspace{\spacingBetweenHeadings}
 
 \noindent
-\huge Work Experiences\par
+\huge Work Experience\par
 \vspace{0.1em}
 \hrule
 \Large
 \vspace{\spacingAfterHeadings}
 
 \noindent
-\textbf{Verisk Analytics, Jersey City NJ (Remote)}\\
+\textbf{Verisk Analytics}, Jersey City NJ (Remote)\\
 \textit{Software Engineering Intern}
 \hfill
 June 2021 - August 2021\\
@@ -88,15 +90,19 @@ June 2021 - August 2021\\
 \item Refactored an HTTP utility library used in 6 Java projects to provide a common interface for developers across 3 teams
 %locator xml (client library for accessing an external API)
 \item Built a Java client to integrate with an external API, converting requests and responses to/from XML
+%Uncomment this to add more info about DevOps
+%\item Built a Java client to integrate with an external API using a serverless architecture
 %nmvtis historical update
 \item Developed, tested, and deployed a solution to a production issue involving incorrect data in over 4 million customer records
+%Uncomment this to add more info about DevOps
+%using AWS and Docker containers
 
 
 
 \end{itemize}
 
 \noindent
-\textbf{Prudential Financial, Newark NJ (Remote)}\\
+\textbf{Prudential Financial}, Newark NJ (Remote)\\
 \textit{Software Engineering Intern}
 \hfill
 June 2020 - August 2020\\
@@ -107,9 +113,8 @@ June 2020 - August 2020\\
 \item Used Node.js and Docker to deploy the web app through an AWS pipeline
 \end{itemize}
 
-%TODO 516 TA
 \noindent
-\textbf{Stevens Institute of Technology, Hoboken NJ / Remote}\\
+\textbf{Stevens Institute of Technology}, Hoboken NJ / Remote\\
 \textit{Course Assistant}
 \hfill
 January 2020 - December 2021\\
@@ -121,14 +126,14 @@ January 2020 - December 2021\\
 
 
 \noindent
-\textbf{Jackson Education, Denville NJ}\\
+\textbf{Jackson Education}, Denville NJ\\
 \textit{App Developer}
 \hfill
 March 2018 - June 2020\\
 \vspace{-1em}
 \begin{itemize}
 \item Developed application to notify customers of their scheduled appointments, allowing them to \mbox{confirm} appointments and take short assessments
-\item iOS application developed in Swift, Backend built with Firebase using Node.js
+\item Created iOS application frontend in Swift, built backend using Node.js and Firebase
 \end{itemize}
 
 
@@ -150,8 +155,8 @@ Compiler for Small Imperative Language
 Spring 2020\\
 \vspace{-1em}
 \begin{itemize}
-\item Implemented a parser, typechecker, frontend, and optimizing backend for an imperative programming language as part of a class on compiler design
-\item Compiler written in OCaml using LLVM as a middle-end and x86 as the target architecture
+\item Developed a parser, typechecker, frontend, and optimizing backend for an imperative programming language as part of a class on compiler design
+\item Implemented the compiler in OCaml using LLVM as a middle-end and x86 as the target architecture
 \end{itemize}
 
 \fi
@@ -162,11 +167,21 @@ Proof-of-Concept Programming Language
 Spring - Summer 2021\\
 \vspace{-1em}
 \begin{itemize}
-\item Implemented a parser, typechecker, and compiler frontend for a C-like programming language, with generic data structures and functions implemented in a novel way
-\item Compiler written in Rust, using the LLVM infrastructure for optimization
+\item Developed a parser, typechecker, and compiler frontend for a C-like programming language, with generic data structures and functions implemented in a novel way
+\item Implemented the compiler in Rust, using the LLVM infrastructure for optimization
 \end{itemize}
 
 %Could add 562 EMF query processor and 492 file system project
+
+\noindent
+Extended-SQL Query Processor
+\hfill
+April - May 2021\\
+\vspace{-1em}
+\begin{itemize}
+\item Developed a query processor that supports basic SQL features, as well as an extension to SQL allowing for more efficient and readable queries
+\item Implemented the parsing and query processing logic in C++
+\end{itemize}
 
 
 \noindent
@@ -180,6 +195,9 @@ September 2019\\
 \item Presented our ideas to executives of Altice, Infosys, and Google as a team of two
 \end{itemize}
 
+
+\iffalse %2018 hackathon, too old, focuses too much on frontend
+
 \noindent
 Altice - Infosys University Hackathon (Third Place)
 \hfill
@@ -191,10 +209,10 @@ November 2018\\
 \item Presented our ideas to executives of Altice and Infosys as a team of four
 \end{itemize}
 
+\fi
+
 
 \noindent
-
-
 
 
 
